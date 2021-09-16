@@ -1,0 +1,22 @@
+{
+  "name": "static-sianx",
+  "version": "1.0.4",
+  "description": "本项目用于备份网站的CSS、js等静态文件。",
+  "main": "jscustom.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/L-20021213/static.git"
+  },
+  "keywords": [
+    "静态文件"
+  ],
+  "author": "sianx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/L-20021213/static/issues"
+  },
+  "homepage": "https://github.com/L-20021213/static#readme"
+} 
