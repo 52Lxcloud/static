@@ -261,7 +261,7 @@ svg.icon {
 /*字体*/
 @font-face{
   font-family:'aqqxs' ;  /* 字体名自定义即可 */
-  src:url('https://unpkg.zhimg.com/static-sianx@1.0.4/ZhuZiAWan2.woff2'); /* 字体文件路径 */
+  src:url('https://cdn.jsdelivr.net/gh/52Lxcloud/Static/ZhuZiAWan2.woff2'); /* 字体文件路径 */
   font-display : swap;
 }
 
