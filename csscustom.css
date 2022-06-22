@@ -50,6 +50,7 @@ border-radius: 25px;
 /* 上下一篇圆角 */
 #pagination.pagination-post {
   border-radius: 25px;
+  width: 100%;	
 }
 /* 相关推荐圆角 */
 .relatedPosts>.relatedPosts-list>div {
