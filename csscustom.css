@@ -42,6 +42,7 @@ border-radius: 25px;
 	line-height: 1.6rem;
 	display: inline-block;
 	min-width: 1.6rem;
+	width: 100%;	
 }
 /* 目录圆角 */
 #aside-content #card-toc .toc-content .toc-link.active {
@@ -50,7 +51,6 @@ border-radius: 25px;
 /* 上下一篇圆角 */
 #pagination.pagination-post {
   border-radius: 25px;
-  width: 100%;	
 }
 /* 相关推荐圆角 */
 .relatedPosts>.relatedPosts-list>div {
