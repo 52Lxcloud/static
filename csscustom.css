@@ -42,7 +42,6 @@ border-radius: 25px;
 	line-height: 1.6rem;
 	display: inline-block;
 	min-width: 1.6rem;
-	width: 100%;	
 }
 /* 目录圆角 */
 #aside-content #card-toc .toc-content .toc-link.active {
@@ -348,6 +347,7 @@ p {
 	display: flex;
     flex-wrap: wrap; /*规定灵活的项目在必要的时候拆行或拆列。*/
     justify-content: space-between; /*。*/
+	width: 100%;	
 }
 #recent-posts > .recent-post-item {
   /*max-height:324px;*/  /*文章容器最大高度*/
@@ -399,6 +399,7 @@ display:none;/*隐藏文章详情*/
     color: var(--text-highlight-color);
     font-size: 1.2em; /*控制标题的字体大小*/
     line-height: 1.4;/*控制标题的行高*/
+	width: 100%;
  
 }
 #recent-posts > .recent-post-item >.recent-post-info > .article-meta-wrap {
