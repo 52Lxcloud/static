@@ -44,6 +44,12 @@
         "link": "https://blog.zhheo.com/",
         "avatar": "https://cdn.lxink.cn/blog/favicon/zhheo.webp",
         "descr": "分享设计与科技生活"
+      },
+      {
+        "name": "风记星辰",
+        "link": "https://www.thyuu.com",
+        "avatar": "https://cdn.lxink.cn/blog/favicon/thyuu.webp",
+        "descr": "热爱你来过的每度温暖"
       }
     ]
   },
@@ -74,6 +80,18 @@
         "link": "https://www.zets.cn/",
         "avatar": "https://cdn.lxink.cn/blog/favicon/zets.webp",
         "descr": "因为喜欢，所以折腾！"
+      },
+      {
+        "name": "爱吃猫的鱼",
+        "link": "https://blog.talen.top/",
+        "avatar": "https://cdn.lxink.cn/blog/favicon/talen.webp",
+        "descr": "前景可待 未来可期"
+      },
+      {
+        "name": "清羽飞扬",
+        "link": "https://blog.talen.top/",
+        "avatar": "https://cdn.lxink.cn/blog/favicon/qyliu.webp",
+        "descr": "柳影曳曳，清酒孤灯，扬笔撒墨，心境如霜"
       }
     ]
   }
