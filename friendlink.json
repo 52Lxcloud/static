@@ -12,7 +12,7 @@
       {
         "name": "晚点晚安",
         "link": "https://photo.lxink.cn/",
-        "avatar": "https://photo.lxink.cn/wp-content/uploads/2024/04/favicon.png",
+        "avatar": "https://cdn.lxink.cn/blog/favicon/photo.webp",
         "descr": "总盼着下次相逢."
       }
     ]
@@ -24,19 +24,19 @@
       {
         "name": "爱吃肉的猫",
         "link": "https://meuicat.com/",
-        "avatar": "https://z1.ax1x.com/2023/05/26/p9qChjI.jpg",
+        "avatar": "https://cdn.lxink.cn/blog/favicon/meuicat.webp",
         "descr": "有肉有猫有生活."
       },
       {
         "name": "杜老师说",
         "link": "https://dusays.com",
-        "avatar": "https://cdn.dusays.com/avatar.png",
+        "avatar": "https://cdn.lxink.cn/blog/favicon/dusays.webp",
         "descr": "师者,传道,授业,解惑！"
       },
       {
         "name": "Timochan",
         "link": "https://www.timochan.cn/",
-        "avatar": "https://www.timochan.cn/api/objects/icon/9s6tbcvax674yv2m88.jpg",
+        "avatar": "https://cdn.lxink.cn/blog/favicon/timochan.webp",
         "descr": "Let's start learning"
       }
     ]
@@ -48,25 +48,25 @@
       {
         "name": "生活如她",
         "link": "https://lifeher.cn/",
-        "avatar": "https://lifeher.cn/wp-content/uploads/2023/04/1651502547-lifeher-logo.png",
+        "avatar": "https://cdn.lxink.cn/blog/favicon/lifeher.webp",
         "descr": "愿我的生活和她一样美丽"
       },
       {
         "name": "柒月博客",
         "link": "https://www.jul.cn/",
-        "avatar": "https://www.jul.cn/favicon.ico",
+        "avatar": "https://cdn.lxink.cn/blog/favicon/jul.webp",
         "descr": "存在过，记录过"
       },
       {
         "name": "在意博客",
         "link": "https://zai1.com/",
-        "avatar": "https://pic.rmb.bdstatic.com/bjh/user/ad6f36fd1b97659ba7357b8f0d7146648314.jpeg",
+        "avatar": "https://cdn.lxink.cn/blog/favicon/zai1.webp",
         "descr": "生活来自灵感，灵感来自生活"
       },
       {
         "name": "七云's Blog",
         "link": "https://www.zets.cn/",
-        "avatar": "https://q.qlogo.cn/g?b=sdk&k=UeVu6eVo5SdL2Eu7PiczvTw&s=640",
+        "avatar": "https://cdn.lxink.cn/blog/favicon/zets.webp",
         "descr": "因为喜欢，所以折腾！"
       }
     ]
