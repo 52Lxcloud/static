@@ -110,6 +110,12 @@
         "link": "https://www.imsun.org",
         "avatar": "https://cdn.lxink.cn/blog/favicon/imsun.webp",
         "descr": "资深网民孙先生"
+      },
+      {
+        "name": "DSUK",
+        "link": "https://dsuk.top",
+        "avatar": "https://cdn.lxink.cn/blog/favicon/dsuk.webp",
+        "descr": "A NPC in world"
       }
     ]
   }
